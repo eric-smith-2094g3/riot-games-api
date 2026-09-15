@@ -48,4 +48,4 @@ Dump a raw match record directly from the local store or API:
 python cli.py inspect NA1_5123984123 --region americas
 ```
 
-<!-- last-sync: 2026-09-14 -->
+<!-- last-sync: 2026-09-15 -->
